@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech CSE @ SKIT Jaipur (CGPA: 9.6)  
-- 🌱 Currently learning: **Advanced DSA, System Design, Generative AI (LLMs & RAG)**  
+- 🌱 Currently learning: **Advanced DSA, Generative AI (LLMs & RAG)**  
 - 🔭 Currently working on: **AI-powered applications and scalable backend systems**  
 - 👯 Open to collaborating on: **AI/ML projects, full-stack apps, and hackathons**  
 - 💬 Ask me about: **C++, Java, Python, DSA, FastAPI, React**  
